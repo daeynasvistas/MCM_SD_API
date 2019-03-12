@@ -1,0 +1,30 @@
+
+http://dl.downloadly.ir/Files/Elearning/Udemy_Learn_Ethical_Hacking_From_Scratch_2019-3.part1_Downloadly.ir.rar
+http://dl.downloadly.ir/Files/Elearning/Udemy_Learn_Ethical_Hacking_From_Scratch_2019-3.part2_Downloadly.ir.rar
+http://dl.downloadly.ir/Files/Elearning/Udemy_Learn_Ethical_Hacking_From_Scratch_2019-3.part3_Downloadly.ir.rar
+http://dl.downloadly.ir/Files/Elearning/Udemy_Learn_Ethical_Hacking_From_Scratch_2019-3.part4_Downloadly.ir.rar
+http://dl.downloadly.ir/Files/Elearning/Udemy_Learn_Ethical_Hacking_From_Scratch_2019-3.part5_Downloadly.ir.rar
+
+password: www.downloadly.ir
+
+
+Introduction
+Setting up The Lab
+Linux Basics
+Network Hacking
+Network Hacking – Pre Connection Attacks
+Network Hacking – Gaining Access (WEP/WPA/WPA2 Cracking)
+Network Hacking – Post Connection Attacks
+Network Hacking – Detection & Security
+Gaining Access To Computer Devices
+Gaining Access – Server Side Attacks
+Gaining Access – Client Side Attacks
+Gaining Access – Client Side Attacks – Social Engineering
+Gaining Access – Using The Above Attacks Outside The Local Network
+Post Exploitation
+Website Hacking
+Website Hacking – Information Gathering
+Website Hacking – File Upload, Code Execution & File Inclusion Vulns
+Website Hacking – SQL Injection Vulnerabilities
+Website Hacking – Cross Site Scripting Vulnerabilities
+Website Hacking – Discovering Vulnerabilities Automatically Using OWASP ZAP
